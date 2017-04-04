@@ -5,4 +5,4 @@ cobol-hello-world
   * https://cobol-hello-world.now.sh/_src
   * https://github.com/now-examples/cobol-hello-world
 
-* [Cobol on Wheelchair webframework](http://adrianzandberg.pl/azac/cobol-on-wheelchair/)
+* [Cobol Web Framework](https://github.com/azac/cobol-on-wheelchair)
